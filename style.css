@@ -253,7 +253,7 @@ header {
 
 .news-image {
     height: 200px;
-    background-image: url(/images/Screenshot_7.png);
+    background-image: url(/Screenshot_7.png);
     background-size: cover;
     background-position: center;
 }
